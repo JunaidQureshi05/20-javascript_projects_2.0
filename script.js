@@ -50,6 +50,11 @@ const projects = [
     icon: '<i class="fas fa-calculator"></i>',
     link: 'https://junaidqureshi05.github.io/calculator/',
   },
+  {
+  title:'Paint',
+    icon:'<i class="fas fa-palette"></i>',
+    link:'https://junaidqureshi05.github.io/paint/',
+  }
 ];
 
 function createBox(project) {
