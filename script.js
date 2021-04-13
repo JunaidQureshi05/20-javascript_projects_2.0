@@ -55,6 +55,11 @@ const projects = [
     icon: '<i class="fas fa-palette"></i>',
     link: 'https://junaidqureshi05.github.io/paint/',
   },
+  {
+    title:'Book Keeper',
+    icon:' <i class="far fa-bookmark"></i>',
+    link:'https://junaidqureshi05.github.io/book-keeper/'
+  }
 ];
 
 function createBox(project) {
