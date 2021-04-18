@@ -59,6 +59,10 @@ const projects = [
     title:'Book Keeper',
     icon:' <i class="far fa-bookmark"></i>',
     link:'https://junaidqureshi05.github.io/book-keeper/'
+  },{
+    title:'Video Player',
+    link:'https://junaidqureshi05.github.io/video-player/',
+    icon:'<i class="fab fa-youtube"></i>'
   }
 ];
 
