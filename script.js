@@ -63,6 +63,10 @@ const projects = [
     title:'Video Player',
     link:'https://junaidqureshi05.github.io/video-player/',
     icon:'<i class="fas fa-film"></i>'
+  },{
+  title:"Form Validation",
+    link:'https://junaidqureshi05.github.io/form-validation/',
+    icon:'<i class="fas fa-file-alt"></i>'
   }
 ];
 
