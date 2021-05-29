@@ -68,6 +68,11 @@ const projects = [
     title:'Form Validation',
     link:'https://junaidqureshi05.github.io/form-validation/',
     icon:'<i class="fas fa-file-alt"></i>'
+  },
+  {
+    title:'Spock Rock Game',
+    link:'https://junaidqureshi05.github.io/spock-rock-game/',
+    icon:'<i class="far fa-hand-scissors"></i>'
   }
 ];
 
