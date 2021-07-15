@@ -73,6 +73,11 @@ const projects = [
     title:'Spock Rock Game',
     link:'https://junaidqureshi05.github.io/spock-rock-game/',
     icon:'<i class="far fa-hand-scissors"></i>'
+  },
+  {
+    title:'Kanban Board',
+    link:'https://junaidqureshi05.github.io/drag-n-drop/',
+    icon:'<i class="fas fa-clipboard-list"></i>'
   }
 ];
 
